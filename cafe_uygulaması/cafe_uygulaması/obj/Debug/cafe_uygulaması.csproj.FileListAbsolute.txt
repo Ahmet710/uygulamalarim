@@ -1,0 +1,10 @@
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\bin\Debug\cafe_uygulaması.exe.config
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\bin\Debug\cafe_uygulaması.exe
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\bin\Debug\cafe_uygulaması.pdb
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\obj\Debug\cafe_uygulaması.csproj.AssemblyReference.cache
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\obj\Debug\cafe_uygulaması.DEMIR_CAFE.resources
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\obj\Debug\cafe_uygulaması.Properties.Resources.resources
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\obj\Debug\cafe_uygulaması.csproj.GenerateResource.cache
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\obj\Debug\cafe_uygulaması.csproj.CoreCompileInputs.cache
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\obj\Debug\cafe_uygulaması.exe
+C:\visual_studio_uygulamalar\TEKRARLAR\cafe_uygulaması\cafe_uygulaması\cafe_uygulaması\obj\Debug\cafe_uygulaması.pdb
